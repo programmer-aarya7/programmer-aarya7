@@ -1,4 +1,4 @@
-# 🌍 नमस्ते | Bonjour | Hola | Hello | Ciao | `printf("Hi! 👋")`
+# 🌍 नमस्ते | Bonjour | Hola | Hello | Ciao | Hi!👋
 
 I’m **Aarya Shetiye** – a proud 🇮🇳 Indian and passionate **Computer Science undergrad**, currently immersed in the world of, **Machine Learing** , **Deep Learning**, **Computer Vision**, but still hunting for my niche !
 
