@@ -11,7 +11,7 @@
 ## 👩‍💻 <span style="font-size:1.3em;">About Me</span>
 
 - 🔭 Currently building and learning in the areas of **DL**, **Web Dev**, and **GenAI**
-- 🌱 Trying to learn something new every day — in **Web Development**, **DSA**, **Agentic-AI**, **ML/DL**
+- 🌱 Trying to learn something new every day , be it in -- **Web Development**, **DSA**, **Agentic-AI**, **ML/DL**
 - 🤝 Always looking forward to **collaborating for hackathons, projects** and to **make friends, learn, and build for society!**
 - 💃 Fun Fact: My favorite programming language? **Dance!** I choreograph steps faster than I write commits — and **if you play any sound near me, there’s a 99.9% chance I’m dancing in my head (sometimes outside it too).** 🎶💻😂
 
