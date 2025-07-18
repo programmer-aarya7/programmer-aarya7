@@ -13,7 +13,7 @@
 - 🔭 Currently building and learning in the areas of **DL**, **Web Dev**, and **GenAI**
 - 🌱 Trying to learn something new every day — in **Web Development**, **DSA**, **Agentic-AI**, **ML/DL**
 - 🤝 Always looking forward to **collaborating for hackathons, projects** and to **make friends, learn, and build for society!**
-- 💃 Fun Fact: My favorite programming language? **Dance!** I choreograph steps faster than I write commits — and if you play any sound near me, there’s a 99.9% chance I’m dancing in my head (sometimes outside it too). 🎶💻😂
+- 💃 Fun Fact: My favorite programming language? **Dance!** I choreograph steps faster than I write commits — and **if you play any sound near me, there’s a 99.9% chance I’m dancing in my head (sometimes outside it too).** 🎶💻😂
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=programmer-aarya7&label=👀%20Profile%20views&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=programmer-aarya7&label=%20Profile%20views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
