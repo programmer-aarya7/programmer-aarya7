@@ -54,7 +54,7 @@ I’m **Aarya Shetiye** – a proud 🇮🇳 Indian and passionate **Computer Sc
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmer-aarya7&repo=Gender-Classification-and-Face-Matching&theme=tokyonight)](https://github.com/programmer-aarya7/Gender-Classification-and-Face-Matching)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmer-aarya7&repo=Multi-Agent-GenAI&theme=tokyonight)](https://github.com/programmer-aarya7/Multi-Agent-GenAI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmer-aarya7&repo=Multi-Agent-GenAI-Analyst-for-Real-Time-Business-Decision-Support&theme=tokyonight)](https://github.com/programmer-aarya7/Multi-Agent-GenAI-Analyst-for-Real-Time-Business-Decision-Support)
 
 ---
 
