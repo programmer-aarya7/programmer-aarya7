@@ -56,6 +56,13 @@
 
 ---
 
+## 🏆 GitHub Achievements  
+Here’s a little trophy shelf I’ve started! Still growing it, one commit at a time ✨
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=programmer-aarya7&theme=algolia&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📌 <span style="font-size:1.3em;">Featured Projects</span>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=programmer-aarya7&repo=Gender-Classification-and-Face-Matching&theme=tokyonight)](https://github.com/programmer-aarya7/Gender-Classification-and-Face-Matching)
